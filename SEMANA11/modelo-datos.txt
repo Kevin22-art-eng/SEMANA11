@@ -1,0 +1,18 @@
+Entidad: Usuario
+Campos principales:
+- id
+- nombre
+- correo
+- rol
+Propósito:
+Registrar a las personas que participan en la plataforma y definir sus permisos de acceso.
+
+Entidad: Evento
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha
+- lugar
+Propósito:
+Guardar los eventos comunitarios organizados, visibles para los usuarios y con posibilidad de participación.
